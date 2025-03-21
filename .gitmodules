@@ -1,0 +1,3 @@
+[submodule "magic-text"]
+	path = magic-text
+	url = https://github.com/younes-dro/magic-text-components
